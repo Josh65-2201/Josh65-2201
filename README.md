@@ -16,7 +16,9 @@
 
 ## My projects
 [![pin](https://github-readme-stats-beryl-one.vercel.app/api/pin/?username=Josh65-2201&repo=Discord-Windows-11-theme&card_width=304&description_lines_count=2&icon_color=0078d6&border_color=30363d&text_color=ffffff&bg_color=000000)](https://github.com/Josh65-2201/Discord-Windows-11-theme)
-[![pin](https://github-readme-stats-beryl-one.vercel.app/api/pin/?username=Josh65-2201&repo=Quest-environments-SteamVR&card_width=304&description_lines_count=2&icon_color=0078d6&border_color=30363d&text_color=ffffff&bg_color=000000)](https://github.com/Josh65-2201/Quest-environments-SteamVR)
 [![pin](https://github-readme-stats-beryl-one.vercel.app/api/pin/?username=Josh65-2201&repo=PAPI-expansion-joinVersions&card_width=304&description_lines_count=2&icon_color=0078d6&border_color=30363d&text_color=ffffff&bg_color=000000)](https://github.com/Josh65-2201/PAPI-expansion-joinVersions)
 
+Unsupported
+
+[![pin](https://github-readme-stats-beryl-one.vercel.app/api/pin/?username=Josh65-2201&repo=Quest-environments-SteamVR&card_width=304&description_lines_count=2&icon_color=0078d6&border_color=30363d&text_color=ffffff&bg_color=000000)](https://github.com/Josh65-2201/Quest-environments-SteamVR)
 [![pin](https://github-readme-stats-beryl-one.vercel.app/api/pin/?username=Josh65-2201&repo=Tardis-mod-1.12.2-continued&card_width=304&description_lines_count=2&icon_color=0078d6&border_color=30363d&text_color=ffffff&bg_color=000000)](https://github.com/Josh65-2201/Tardis-mod-1.12.2-continued)
