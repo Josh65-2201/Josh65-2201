@@ -74,9 +74,9 @@ body:
 
   # Log File
   - type: upload
-    id: upload_log
     attributes:
       label: Log File
+      description: "Log file"
     validations:
       required: true
       accept: ".png,.jpg,.log,.txt"
